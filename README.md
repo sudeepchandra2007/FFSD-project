@@ -7,5 +7,3 @@ The employees in corporate companies undergo a huge amount of stress due to heav
 use draw.io to open the file  
 https://drive.google.com/file/d/1fDRCmXXKPF9Hht0589KWGx05mXX-YtVF/view?usp=sharing
 
-or click this link for a jpg file
-https://github.com/sudeepchandra2007/FFSD-project/tree/main/Use%20case%20diagram
