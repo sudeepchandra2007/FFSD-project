@@ -1,9 +1,37 @@
-# FFSD-project
-creating a wellness program management platform
-## PROBLEM STATEMENT :
-The employees in corporate companies undergo a huge amount of stress due to heavy work load, tight deadlines etc. in order to reduce the stress and ensure good mental and physical health of the employees, most companies run wellness programs  but, without a centralized and coordinated system, the programs are highly inefficient. So we are building a platform which coordinates all the wellness programs at one place
+## Problem Statement: Wellness Program Management Platform
+Modern organizations conduct multiple wellness programs to improve employee mental and physical health. However, these programs are often managed independently, leading to poor coordination, low participation, and limited visibility into their effectiveness. The lack of a unified platform prevents organizations from efficiently organizing, tracking, and optimizing wellness initiatives, thereby limiting their potential benefits.
 
-## Use case diagram :
-use draw.io to open the file  
-https://drive.google.com/file/d/1fDRCmXXKPF9Hht0589KWGx05mXX-YtVF/view?usp=sharing
+The objective of the platform is to streamline the management of employee wellness programs by providing a centralized and organized system that enhances accessibility, coordination, and effectiveness.
+
+## Actors:
+-Employee
+
+-Wellness Expert(Physical Wellness Instructor, Nutritionist, Psychologist)
+
+-HR(Human Resource)
+
+-Admin
+## Planned Features
+
+### Employee
+- Access wellness video library  
+- Join live wellness sessions  
+- Book consultations with wellness experts  
+- Raise wellness-related queries  
+
+### Wellness Expert (Physical Wellness Instructor, Nutritionist, Psychologist)
+- Conduct and manage live wellness sessions  
+- Provide consultations to employees  
+- Upload and manage wellness content  
+- Respond to employee queries  
+
+### HR (Human Resource)
+- Manage and schedule live wellness sessions  
+- Manage Wellness Experts
+
+### Admin
+- Manage users and roles  
+- Configure platform settings  
+
+
 
